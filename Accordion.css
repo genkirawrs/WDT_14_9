@@ -1,0 +1,26 @@
+* {
+	box-sizing:border-box;
+}
+
+.accordion-list {
+  display: block;
+  position: relative;
+  padding: 0 12px;
+  height: 22px;
+  list-style:none;
+  width:300px;
+}
+
+.accordion-list li {
+   margin:10px;
+	width:100%;
+}
+
+button {
+	width:100%;
+  font-size:16px;
+}
+
+p {
+	width:100%;
+}
